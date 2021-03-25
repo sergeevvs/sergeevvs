@@ -2,7 +2,7 @@
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - mailto:sergeevvs997@gmail.com or https://t.me/sergeevvs997
+- 📫 How to reach me - sergeevvs997@gmail.com or https://t.me/sergeevvs997
 
 <!---
 sergeevvs/sergeevvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
